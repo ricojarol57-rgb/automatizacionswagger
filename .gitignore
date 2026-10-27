@@ -21,3 +21,8 @@ output/
 .idea/
 *.swp
 .DS_Store
+ 
+# Environment variables
+.env
+ 
+ 
